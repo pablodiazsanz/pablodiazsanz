@@ -1,7 +1,14 @@
-### Hi there 👋
+![](Portada-Pablo-Diaz.png)
+### Hola a todos! 👋
 
+Mi nombre es Pablo Díaz. Estoy finalizando el grado superior de Desarrollo de Aplicaciones
+Multiplataforma y subo aqui proyectos de clase y alguno personal 🤩
+
+Echadle un vistazo! ✨
 <!--
 **pablodiazsanz/pablodiazsanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
