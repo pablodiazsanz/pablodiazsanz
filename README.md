@@ -2,7 +2,7 @@
 ### Hola a todos! 👋
 
 Mi nombre es Pablo Díaz. Estoy finalizando el grado superior de Desarrollo de Aplicaciones
-Multiplataforma y subo aqui proyectos de clase y alguno personal 🤩
+Multiplataforma y subo aquí proyectos de clase y alguno personal 🤩
 
 Echadle un vistazo! ✨
 <!--
